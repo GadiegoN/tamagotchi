@@ -1,0 +1,5 @@
+.godot/
+*.tmp
+*.log
+tests/artifacts/
+android
